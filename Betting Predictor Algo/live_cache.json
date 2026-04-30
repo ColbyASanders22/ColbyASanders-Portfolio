@@ -1,0 +1,86 @@
+[
+    {
+        "externalId": "NB139230426",
+        "streamName": "Ebasketball 1",
+        "teamAName": "Dallas Mavericks",
+        "teamBName": "Denver Nuggets",
+        "participantAName": "HOLLOW",
+        "participantBName": "CHIEF",
+        "startDate": "2026-04-23T16:03:00Z",
+        "status": "live",
+        "teamAScore": 38,
+        "teamBScore": 22
+    },
+    {
+        "externalId": "NB140230426",
+        "streamName": "Ebasketball 2",
+        "teamAName": "Memphis Grizzlies",
+        "teamBName": "Milwaukee Bucks",
+        "participantAName": "GALAXY",
+        "participantBName": "DIMES",
+        "startDate": "2026-04-23T16:07:00Z",
+        "status": "live",
+        "teamAScore": 15,
+        "teamBScore": 11
+    },
+    {
+        "externalId": "NB141230426",
+        "streamName": "Ebasketball 3",
+        "teamAName": "Phoenix Suns",
+        "teamBName": "Milwaukee Bucks",
+        "participantAName": "SPECTER",
+        "participantBName": "RAMZ",
+        "startDate": "2026-04-23T16:11:00Z",
+        "status": "live",
+        "teamAScore": 9,
+        "teamBScore": 6
+    },
+    {
+        "externalId": "NB142230426",
+        "streamName": "Ebasketball 4",
+        "teamAName": "New York Knicks",
+        "teamBName": "Boston Celtics",
+        "participantAName": "UNBREAKABLE",
+        "participantBName": "ARCHER",
+        "startDate": "2026-04-23T16:15:00Z",
+        "status": "scheduled",
+        "teamAScore": null,
+        "teamBScore": null
+    },
+    {
+        "externalId": "NB143230426",
+        "streamName": "Ebasketball 1",
+        "teamAName": "Orlando Magic",
+        "teamBName": "Charlotte Hornets",
+        "participantAName": "HOGGY",
+        "participantBName": "BULLSEYE",
+        "startDate": "2026-04-23T16:35:00Z",
+        "status": "scheduled",
+        "teamAScore": null,
+        "teamBScore": null
+    },
+    {
+        "externalId": "NB144230426",
+        "streamName": "Ebasketball 2",
+        "teamAName": "Cleveland Cavaliers",
+        "teamBName": "Milwaukee Bucks",
+        "participantAName": "VISIONARY",
+        "participantBName": "DIMES",
+        "startDate": "2026-04-23T16:39:00Z",
+        "status": "scheduled",
+        "teamAScore": null,
+        "teamBScore": null
+    },
+    {
+        "externalId": "NB145230426",
+        "streamName": "Ebasketball 3",
+        "teamAName": "Toronto Raptors",
+        "teamBName": "Chicago Bulls",
+        "participantAName": "THUNDER",
+        "participantBName": "PACIFIER",
+        "startDate": "2026-04-23T16:43:00Z",
+        "status": "scheduled",
+        "teamAScore": null,
+        "teamBScore": null
+    }
+]

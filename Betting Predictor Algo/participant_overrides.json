@@ -1,0 +1,327 @@
+
+[
+    {
+        "participantName": "SPARKZ",
+        "avgPoints": 62.1
+    },
+    {
+        "participantName": "HUNCHO",
+        "avgPoints": 57.5
+    },
+    {
+        "participantName": "KARMA",
+        "avgPoints": 60.5
+    },    
+    {
+        "participantName": "MARINE",
+        "avgPoints": 64.2
+    },
+    {
+        "participantName": "MYTH",
+        "avgPoints": 48.7
+    },
+    {
+        "participantName": "RAPTOR",
+        "avgPoints": 53.9
+    },
+    {
+        "participantName": "AIRFORCE",
+        "avgPoints": 59.8
+    },
+    {
+        "participantName": "SHERIFF",
+        "avgPoints": 52.6
+    },
+    {
+        "participantName": "BLADE",
+        "avgPoints": 52.6
+    },
+    {
+        "participantName": "RADIANT",
+        "avgPoints": 49.0
+    },
+    {
+        "participantName": "IMMORTAL",
+        "avgPoints": 50.7
+    },
+    {
+        "participantName": "BLIZZARD",
+        "avgPoints": 45.7
+    },
+    {
+        "participantName": "DAGGER",
+        "avgPoints": 51.8
+    },
+    {
+        "participantName": "STING",
+        "avgPoints": 46.4
+    },
+    {
+        "participantName": "SPOOKY",
+        "avgPoints": 57.8
+    },
+    {
+        "participantName": "ACTION",
+        "avgPoints": 34.8
+    },
+    {
+        "participantName": "LANES",
+        "avgPoints": 63.3
+    },
+    {
+        "participantName": "TAAPZ",
+        "avgPoints": 62.0
+    },
+    {
+        "participantName": "COMMANDER",
+        "avgPoints": 50.2
+    },
+    {
+        "participantName": "GODFATHER",
+        "avgPoints": 53.8
+    },
+    {
+        "participantName": "THUNDER",
+        "avgPoints": 57.7
+    },
+    {
+        "participantName": "BULLSEYE",
+        "avgPoints": 59.3
+    },
+    {
+        "participantName": "COMMANDER",
+        "avgPoints": 50.2
+    },
+    {
+        "participantName": "HOLLOW",
+        "avgPoints": 57.0
+    },
+    {
+        "participantName": "GALAXY",
+        "avgPoints": 53.6
+    },
+    {
+        "participantName": "DIMES",
+        "avgPoints": 62.9
+    },
+    {
+        "participantName": "REND",
+        "avgPoints": 46.8
+    },
+    {
+        "participantName": "ARCHER",
+        "avgPoints": 51.3
+    },
+    {
+        "participantName": "JD",
+        "avgPoints": 59.7
+    },
+    {
+        "participantName": "CHEIF",
+        "avgPoints": 57.0
+    },
+    {
+        "participantName": "EXO",
+        "avgPoints": 58.8
+    },
+    {
+        "participantName": "RAMZ",
+        "avgPoints": 66.2
+    },
+    {
+        "participantName": "PROTOTYPE",
+        "avgPoints": 53.3
+    },
+    {
+        "participantName": "SPECTER",
+        "avgPoints": 59.3
+    },
+    {
+        "participantName": "MIST",
+        "avgPoints": 63.3
+    },
+    {
+        "participantName": "THOR",
+        "avgPoints": 50.7
+    },
+    {
+        "participantName": "LEGACY",
+        "avgPoints": 48.7
+    },
+    {
+        "participantName": "UNDERRATED",
+        "avgPoints": 62.2
+    },
+    {
+        "participantName": "FIVESTAR",
+        "avgPoints": 60.0
+    },
+    {
+        "participantName": "EQUALIZER",
+        "avgPoints": 50.9
+    },
+    {
+        "participantName": "GIANT",
+        "avgPoints": 45.5
+    },
+    {
+        "participantName": "SIGNAL",
+        "avgPoints": 50.4
+    },
+    {
+        "participantName": "GODLIKE",
+        "avgPoints": 51.0
+    },
+    {
+        "participantName": "SILVER",
+        "avgPoints": 57.0
+    },
+    {
+        "participantName": "UNBREAKABLE",
+        "avgPoints": 51.1
+    },
+    {
+        "participantName": "CARNAGE",
+        "avgPoints": 64.0
+    },
+    {
+        "participantName": "VISIONARY",
+        "avgPoints": 59.0
+    },
+    {
+        "participantName": "ORDER",
+        "avgPoints": 51.7
+    },
+    {
+        "participantName": "HOGGY",
+        "avgPoints": 67.0
+    },
+    {
+        "participantName": "WOLVERINE",
+        "avgPoints": 52.7
+    },
+    {
+        "participantName": "TERMINATOR",
+        "avgPoints": 50.8
+    },
+    {
+        "participantName": "CALAMITY",
+        "avgPoints": 57.6
+    },
+    {
+        "participantName": "LAW",
+        "avgPoints": 54.0
+    },
+    {
+        "participantName": "JUGGERNAUT",
+        "avgPoints": 58.6
+    },
+    {
+        "participantName": "JACKAL",
+        "avgPoints": 57.8
+    },
+    {
+        "participantName": "ABYSS",
+        "avgPoints": 53.1
+    },
+    {
+        "participantName": "PACIFIER",
+        "avgPoints": 53.9
+    },
+    {
+        "participantName": "HARLEM",
+        "avgPoints": 55.9
+    },
+    {
+        "participantName": "TRANQUILITY",
+        "avgPoints": 50.4
+    },
+    {
+        "participantName": "SCORCH",
+        "avgPoints": 59.5
+    },
+    {
+        "participantName": "TITANIUM",
+        "avgPoints": 49.7
+    },
+    {
+        "participantName": "INVINCIBLE",
+        "avgPoints": 47.4
+    },
+    {
+        "participantName": "ARCHITECT",
+        "avgPoints": 60.9
+    },
+    {
+        "participantName": "MALICE",
+        "avgPoints": 57.4
+    },
+    {
+        "participantName": "DOMAIN",
+        "avgPoints": 53.9
+    },
+    {
+        "participantName": "TRINITY",
+        "avgPoints": 51.3
+    },
+    {
+        "participantName": "SUPERIOR",
+        "avgPoints": 55.3
+    },
+    {
+        "participantName": "VANDAL",
+        "avgPoints": 47.7
+    },
+    {
+        "participantName": "FRENZY",
+        "avgPoints": 50.8
+    },
+    {
+        "participantName": "CLAW",
+        "avgPoints": 49.9
+    },
+    {
+        "participantName": "ETHEREAL",
+        "avgPoints": 55.0
+    },
+    {
+        "participantName": "ARACHNE",
+        "avgPoints": 54.8
+    },
+    {
+        "participantName": "CLUTCH",
+        "avgPoints": 43.4
+    },
+    {
+        "participantName": "CYPHER",
+        "avgPoints": 57.6
+    },
+    {
+        "participantName": "ULTIMATE",
+        "avgPoints": 52.3
+    },
+    {
+        "participantName": "GENERAL",
+        "avgPoints": 50.9
+    },
+    {
+        "participantName": "PROWLER",
+        "avgPoints": 51.5
+    },
+    {
+        "participantName": "ADMIRAL",
+        "avgPoints": 51.1
+    },
+    {
+        "participantName": "DOC",
+        "avgPoints": 54.8
+    },
+    {
+        "participantName": "VISIONARY",
+        "avgPoints": 59.2
+    },
+    {
+        "participantName": "MARKSMAN",
+        "avgPoints": 50.4
+    }
+]
